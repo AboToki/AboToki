@@ -1,6 +1,6 @@
-Please visit https://manjul-portfolio.vercel.app/
+Please visit https://kingbutter1011.vercel.app/
 
-<a href="https://github.com/Manjul1225"><img src="https://github.com/Manjul1225/Manjul1225/blob/master/Total.png" width="1000"/></a>
+<a href="https://github.com/AboToki"><img src="https://github.com/AboToki/AboToki/blob/master/Total.png" width="1000"/></a>
 
 <table>
   <tr>
@@ -20,7 +20,7 @@ Please visit https://manjul-portfolio.vercel.app/
 
     </td>
     <td>    
-      <a href="https://manjul-portfolio.vercel.app/"><img src="https://github.com/Manjul1225/portfolio_html/blob/master/assets/img/FirstIMG.jpg" width="1000"/></a>
+      <a href="https://manjul-portfolio.vercel.app/"><img src="https://github.com/AboToki/portfolio_html/blob/master/assets/img/FirstIMG.jpg" width="1000"/></a>
     </td>
   </tr>
 </table>
